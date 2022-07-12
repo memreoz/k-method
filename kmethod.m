@@ -39,9 +39,6 @@ for U=1:100000
     Vel(U) = V;
     
 end
-length(fre)
-length(damp)
-length(Vel)
 
 figure(1)
 plot(Vel,fre)
